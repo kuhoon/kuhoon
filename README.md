@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @kuhoon
-- 👀 I’m interested in mechanical vibration
+- 👀 I’m interested in Mechanical Vibration of Aircraft/Space
 - 🌱 I’m currently learning Aerospace Engineering in RWTH Aachen Uni.
+- 🌱 I’m currently using Pycharm with pynastran and MSC Patran/Nastran 
 - 📫 How to reach me kuhoon.kwon@rwth-aachen.de
 
 <!---
